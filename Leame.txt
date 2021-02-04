@@ -1,0 +1,3 @@
+En la clase de Patricio Keilty sacamos de una Pc 
+lo que creemos, son los archivos jars necesarios 
+para configurar hibernate.cfg.xml con Eclipse.
